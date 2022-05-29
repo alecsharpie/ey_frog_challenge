@@ -6,3 +6,5 @@ raw_data/
 *.csv
 **/__pycache__/
 .env
+ey_resources/training_data/
+ey_resources/GBIF_training_data.zip
